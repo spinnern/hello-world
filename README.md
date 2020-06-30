@@ -1,2 +1,3 @@
 # hello-world
-This is to understand how to use this for Azure
+
+This is a new file from the master and has been edited to show the differance.
